@@ -1,6 +1,8 @@
 # rwa
 Relative weights analysis Use rwa With (In) R Software
 
+https://www.youtube.com/watch?v=l6UZyXeEMzA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
